@@ -1,1 +1,1 @@
-
+Today I finished the automated testing for the security roles. I did all this work in Selenium Webdrivder. I've really become quite a pro at using Selenium Webdriver. Recently I had to construct my own ExpectedCondition for the DriverWait, which would 
